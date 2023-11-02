@@ -1,0 +1,26 @@
+.container {
+  background-color: #000000;
+  height: 500px;
+  flex: 1;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: center;
+}
+
+.resultContainer {
+  flex: 0.9;
+  align-items: 'flex-end';
+  flex-direction: 'flex-end';
+  padding-right: 12px;
+  background-color: #000000;
+}
+
+.buttonContainer {
+  flex-direction: 'row';
+  justify-content: space-evenly;
+  margin-top: 15px;
+}
+
+.leftPad {
+  width: 75%;
+}

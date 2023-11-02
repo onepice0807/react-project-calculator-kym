@@ -1,0 +1,19 @@
+.board {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 20;
+}
+
+.page-button {
+  width: 30;
+  height: 30;
+  margin: 5px;
+  border-radius: 3px;
+}
+
+.board {
+  padding: 30px;
+  margin: 10px;
+}
